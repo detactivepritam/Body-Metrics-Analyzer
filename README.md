@@ -46,7 +46,7 @@ pip install matplotlib
 Run the Python file:
 python bmi.py
 
-##Steps:
+## Steps:
 
 Enter your weight (kg) and height (m)
 
@@ -56,7 +56,7 @@ View your BMI and category
 
 Click Show BMI History to see previous results in a graph
 
-##📊 Example Output
+## 📊 Example Output
 
 Enter Weight (kg): 70
 Enter Height (m): 1.75
@@ -66,7 +66,7 @@ Category: Normal weight
 BMI History Graph:
 Shows BMI trend over time with dates.
 
-##📦 Requirements
+## 📦 Requirements
 Python 3.x
 
 Tkinter (default with Python)
@@ -80,5 +80,5 @@ Copy
 Edit
 pip install matplotlib
 
-##🏆 Credits
+## 🏆 Credits
 Developed by **Pritam Bhuin**
