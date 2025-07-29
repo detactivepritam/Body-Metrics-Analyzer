@@ -29,35 +29,24 @@ Body-Metrics-Analyzer/
 ├── bmi_history.csv # Auto-generated BMI history file
 └── README.md # Project Documentation
 
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/YourUsername/Body-Metrics-Analyzer.git
 cd Body-Metrics-Analyzer
+
 2. Install Python Dependencies
 Make sure you have Python 3 installed. Then, install the required library:
 
-bash
-Copy
-Edit
 pip install matplotlib
 (Tkinter is included with Python by default on Windows; if not, install via your system package manager.)
 
 ▶️ Usage
 Run the Python file:
+python bmi.py
 
-bash
-Copy
-Edit
-python body_metrics_analyzer.py
-Steps:
+##Steps:
 
 Enter your weight (kg) and height (m)
 
@@ -67,12 +56,8 @@ View your BMI and category
 
 Click Show BMI History to see previous results in a graph
 
-📊 Example Output
-GUI Window:
+##📊 Example Output
 
-mathematica
-Copy
-Edit
 Enter Weight (kg): 70
 Enter Height (m): 1.75
 
@@ -81,7 +66,7 @@ Category: Normal weight
 BMI History Graph:
 Shows BMI trend over time with dates.
 
-📦 Requirements
+##📦 Requirements
 Python 3.x
 
 Tkinter (default with Python)
@@ -94,9 +79,6 @@ bash
 Copy
 Edit
 pip install matplotlib
-📜 License
-This project is created for educational purposes under the Oasis Infobyte Python Internship Program.
-You are free to use and modify it for learning purposes.
 
-🏆 Credits
+##🏆 Credits
 Developed by **Pritam Bhuin**
