@@ -75,9 +75,6 @@ Matplotlib
 
 Install matplotlib via:
 
-bash
-Copy
-Edit
 pip install matplotlib
 
 ## 🏆 Credits
